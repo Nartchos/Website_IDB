@@ -12,6 +12,11 @@
   color:white;
   text-decoration: none;
 }
+.ss:visited
+{
+  color:white;
+  text-decoration: none;
+}
 /* Page d'accueil */
 footer
 {
